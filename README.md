@@ -1,2 +1,5 @@
-# amazon_beauty_recommendation
-kaggle dataset amazon ratings beauty products
+# Amazon Beauty Products Recommendation System (in progress)
+
+Trying to build a recommendation system for Amazon beauty products.
+
+Dataset: Kaggle-Amazon ratings beauty products
